@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="260">
+  <text x="20" y="30" font-family="Arial" font-size="16" font-weight="bold">Month1: FDE Training Timeline</text>
+  <rect x="20" y="60" width="200" height="30" fill="#d9ead3" stroke="#38761d"/>
+  <text x="30" y="80" font-family="Arial" font-size="12">Week 1: Setup Env & Python</text>
+  <rect x="20" y="110" width="200" height="30" fill="#cfe2f3" stroke="#0b5394"/>
+  <text x="30" y="130" font-family="Arial" font-size="12">Week 2: Data & Backend</text>
+  <rect x="20" y="160" width="200" height="30" fill="#fce5cd" stroke="#b45f06"/>
+  <text x="30" y="180" font-family="Arial" font-size="12">Week 3: RAG Prototype</text>
+  <rect x="20" y="210" width="200" height="30" fill="#f4cccc" stroke="#a61c00"/>
+  <text x="30" y="230" font-family="Arial" font-size="12">Week 4: Finalize & Deploy</text>
+</svg>
