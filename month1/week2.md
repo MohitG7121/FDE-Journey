@@ -1,0 +1,22 @@
+# Month 1 – Week 2: Data Handling & Backend
+
+- **Goal:** Learn data formats and extend backend functionality for the AI Assistant.  
+- **Daily Tasks:**  
+  - **Day 1:** *Python Modules & I/O* – Use `pip` to manage packages; create `requirements.txt`. Explore Python’s `os` and `pathlib`.  
+    - *Resources:* Python docs (std library).  
+  - **Day 2:** *JSON & Files* – Read/write JSON with Python’s `json` module. Practice loading API data.  
+    - *Resources:* [Python json docs]; MDN [Working with JSON].  
+  - **Day 3:** *Databases (SQLite)* – Learn SQL basics. Use Python’s `sqlite3` to create and query a local DB.  
+    - *Resources:* SQLite intro (lightweight, serverless DB); SQL tutorial.  
+  - **Day 4:** *FastAPI CRUD* – Extend FastAPI app: add POST/PUT endpoints. Integrate with SQLite (via `sqlite3` or SQLAlchemy).  
+    - *Resources:* FastAPI tutorial (User Guide on request body, database).  
+  - **Day 5:** *LLM APIs* – Set up OpenAI (or similar) API access. Write a Python script to send a prompt and receive a response (chat or completion).  
+    - *Resources:* OpenAI API documentation.  
+  - **Day 6:** *Vector DB Introduction* – Overview of vector embeddings and vector search. Experiment with an embedding model (e.g. OpenAI embeddings) and a local similarity search (e.g. using `sklearn`).  
+    - *Resources:* Pinecone article on vector DBs (explains similarity search).  
+  - **Day 7:** *Review & Planning* – Test all code written. Summarize what worked/failed. Start drafting the PRD for Project 1.  
+- **Deliverables:**  
+  - Extended FastAPI app with basic data persistence.  
+  - Scripts to load JSON and SQL data.  
+  - Notes on embedding/vector concepts.  
+  - PRD outline for Project 1 (to refine).
